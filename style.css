@@ -1,0 +1,32 @@
+h1 {
+  color: brown;
+  font-size: 100px;
+  border-bottom: solid 3px black;
+  border-top: solid 3px black;
+  padding: 0.5em 0;
+  background: khaki;
+  
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  background-color: cadetblue;
+
+}
+ul2{
+  display: flex;
+padding-left: 8px;
+ 
+}
+
+h2{
+  
+  color: bisque;
+
+}
+
+div{
+  background: khaki;
+}
+
